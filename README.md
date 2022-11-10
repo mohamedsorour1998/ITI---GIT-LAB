@@ -1,5 +1,6 @@
 # LAB2
 
+DEV
 Tell me how to remove them locally and remotely:
 
 Tell me how to checkout another branch without commit
