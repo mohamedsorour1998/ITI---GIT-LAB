@@ -1,4 +1,4 @@
-# LAB2
+# LAB
 
 TEST
 DEV
